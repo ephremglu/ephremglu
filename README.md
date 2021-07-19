@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephremglu&label=Profile%20views&color=0e75b6&style=flat" alt="ephremglu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ephremglu.github.io/#projects-section](https://ephremglu.github.io/#projects-section)
+- All of my projects are available at [https://ephremglu.github.io/#projects-section](https://ephremglu.github.io/#projects-section)
 
-- 📄 Know about my experiences [https://ephremglu.github.io/#resume-section](https://ephremglu.github.io/#resume-section)
+- See my experiences at [https://ephremglu.github.io/#resume-section](https://ephremglu.github.io/#resume-section)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
