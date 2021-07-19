@@ -1,10 +1,19 @@
 ![Github Banner](https://github.com/ephremglu/ephremglu/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hello, my name is Ephrem</h1>
-<h3 align="center">I am a recent graduate of Eastern Washington University with a Bachelor of Science degree in Data Analytics and minors in Computer Science Programming and Management Information Systems.</h3>
+<p align="center">I am a recent graduate of Eastern Washington University with a Bachelor of Science degree in Data Analytics and minors in Computer Science Programming and Management Information Systems.</p>
 
-- All of my projects are available at [https://ephremglu.github.io/#projects-section](https://ephremglu.github.io/#projects-section)
-- See my experiences at [https://ephremglu.github.io/#resume-section](https://ephremglu.github.io/#resume-section)
+<h3 align="center">Check Out My Projects</h3>
+<p align="center">
+<a href="https://github.com/ephremglu/Data-Analytics/blob/main/README.md" target="blank"><img align="center" src="https://github.com/ephremglu/ephremglu/blob/main/Data%20Analytics.png" alt="data-analytics" height="200" width="300" /></a>
+<a href="https://github.com/ephremglu/Computer-Science-Programming/blob/main/README.md" target="blank"><img align="center" src="https://github.com/ephremglu/ephremglu/blob/main/CS%20Programming.png" alt="computer-science-programming" height="200" width="300" /></a>
+<a href="https://github.com/ephremglu/Management-Information-System/blob/main/README.md" target="blank"><img align="center" src="https://github.com/ephremglu/ephremglu/blob/main/MIS.png" alt="management-information-systems" height="200" width="300" /></a>
+</p>
 
+- Visit my website at [EPHREMGLU.GITHUB.IO](https://ephremglu.github.io/)
+- [Click here to view all of my projects](https://ephremglu.github.io/#projects-section)
+- [Click here to view my experiences/resume](https://ephremglu.github.io/#resume-section)
+- [Click here to view all of my certifications](https://ephremglu.github.io/index.html#certifications)
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ephremg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ephremg" height="30" width="40" /></a>
