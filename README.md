@@ -4,9 +4,9 @@
 
 <h3 align="center">Check Out My Projects</h3>
 <p align="center">
-<a href="https://github.com/ephremglu/Data-Analytics/blob/main/README.md" target="blank"><img align="center" src="https://github.com/ephremglu/ephremglu/blob/main/Data%20Analytics.png" alt="data-analytics" height="200" width="300" /></a>
-<a href="https://github.com/ephremglu/Computer-Science-Programming/blob/main/README.md" target="blank"><img align="center" src="https://github.com/ephremglu/ephremglu/blob/main/CS%20Programming.png" alt="computer-science-programming" height="200" width="300" /></a>
-<a href="https://github.com/ephremglu/Management-Information-System/blob/main/README.md" target="blank"><img align="center" src="https://github.com/ephremglu/ephremglu/blob/main/MIS.png" alt="management-information-systems" height="200" width="300" /></a>
+<a href="https://github.com/ephremglu/Data-Analytics/blob/main/README.md" target="blank"><img align="center" src="https://github.com/ephremglu/ephremglu/blob/main/Data%20Analytics.png" alt="data-analytics" height="175" width="250" /></a>
+<a href="https://github.com/ephremglu/Computer-Science-Programming/blob/main/README.md" target="blank"><img align="center" src="https://github.com/ephremglu/ephremglu/blob/main/CS%20Programming.png" alt="computer-science-programming" height="175" width="250" /></a>
+<a href="https://github.com/ephremglu/Management-Information-System/blob/main/README.md" target="blank"><img align="center" src="https://github.com/ephremglu/ephremglu/blob/main/MIS.png" alt="management-information-systems" height="175" width="250" /></a>
 </p>
 
 - Visit my website at [EPHREMGLU.GITHUB.IO](https://ephremglu.github.io/)
