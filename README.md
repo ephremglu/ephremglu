@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/ephremglu/ephremglu/blob/main/GitHub%20Banner.png)
+<a href="https://ephremglu.github.io/" target="blank"><img align="center" src="https://github.com/ephremglu/ephremglu/blob/main/GitHub%20Banner.png" alt="github-banner" height="325" width="1500" /></a>
 <h1 align="center">Hello, my name is Ephrem</h1>
 <p align="center">I am a recent graduate of Eastern Washington University with a Bachelor of Science degree in Data Analytics and minors in Computer Science Programming and Management Information Systems.</p>
 
