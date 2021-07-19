@@ -1,10 +1,9 @@
+![Github Banner](https://github.com/ephremglu/ephremglu/blob/main/GitHub%20Banner.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ephremglu&label=Profile%20views&color=0e75b6&style=flat" alt="ephremglu" /> </p>
 <h1 align="center">Hello, my name is Ephrem</h1>
 <h3 align="center">I am a recent graduate of Eastern Washington University with a Bachelor of Science degree in Data Analytics and minors in Computer Science Programming and Management Information Systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ephremglu&label=Profile%20views&color=0e75b6&style=flat" alt="ephremglu" /> </p>
-
 - All of my projects are available at [https://ephremglu.github.io/#projects-section](https://ephremglu.github.io/#projects-section)
-
 - See my experiences at [https://ephremglu.github.io/#resume-section](https://ephremglu.github.io/#resume-section)
 
 <h3 align="left">Connect with me:</h3>
